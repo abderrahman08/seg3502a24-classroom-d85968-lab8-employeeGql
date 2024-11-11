@@ -1,4 +1,4 @@
-package seg3x02.employeeGql.resolvers.types
+package seg3x02.employeeGql.types
 
 class CreateEmployeeInput (
     val name: String? = null,
